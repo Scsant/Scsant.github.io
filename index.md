@@ -10,7 +10,8 @@ Este é o meu portfólio online. Aqui estão alguns dos meus projetos:
 ## Projetos
 
 ### [Portfólio](https://github.com/Scsant/portifolio)
-Descrição do projeto Portfólio.
+Esse projeto contem todas as automações que eu fiz utilizando VBA e Python.
+
 
 ### [New V Python](https://github.com/Scsant/newVPython)
 Descrição do projeto New V Python.
